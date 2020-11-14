@@ -4,8 +4,7 @@
 [![Outlook Badge](https://img.shields.io/badge/-valigtonverissimo@outlook.com-blue?style=flat&logo=Outlook&logoColor=white&link=mailto:valigtonverissimo@outlook.com)](mailto:valigtonverissimo@outlook.com)
 [![Github Badge](https://img.shields.io/badge/-valigton-black?style=flat&logo=Github&logoColor=white&link=https://github.com/valigton)](https://github.com/valigton)
 
-Hello!!!
-
+Loading...
 
 ### GitHub Stats
 
