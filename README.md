@@ -8,7 +8,7 @@ Loading...
 
 ### GitHub Stats
 
-![valigton's github](https://github-readme-stats.vercel.app/api?username=valigton&show_icons=true&hide_border=true)
+![valigton's github](https://github-readme-stats.vercel.app/api?username=valigton&show_icons=true&theme=dracula&hide_border=true)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valigton)](https://github.com/valigton/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valigtontheme=dracula)](https://github.com/valigton/github-readme-stats)
