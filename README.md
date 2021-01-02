@@ -1,14 +1,25 @@
 <h2 align="center"> Hello, I'm Valigton Veríssimo :wave:</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador valigton">
 
-[![Linkedin Badge](https://img.shields.io/badge/-valigtonverissimo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valigtonverissimo/)](https://www.linkedin.com/in/valigtonverissimo/)
-[![Outlook Badge](https://img.shields.io/badge/-valigtonverissimo@outlook.com-blue?style=flat&logo=Outlook&logoColor=white&link=mailto:valigtonverissimo@outlook.com)](mailto:valigtonverissimo@outlook.com)
-[![Github Badge](https://img.shields.io/badge/-valigton-black?style=flat&logo=Github&logoColor=white&link=https://github.com/valigton)](https://github.com/valigton)
+<p align="left">
+  🦄 Skills: <strong>...</strong>
+</p>
 
-Loading...
+<p align="left">
+  💼 Tools: <strong>...</strong>
+</p>
 
-### GitHub Stats
+<p align="left">
+  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+</p>
 
-![valigton's github](https://github-readme-stats.vercel.app/api?username=valigton&show_icons=true&theme=dracula&hide_border=true)
+<p align="left">
+  <a href="https://www.instagram.com/vaverissimo_/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vaverissimo_/"/></a>
+  
+  <a href="https://www.linkedin.com/in/valigtonverissimo" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valigtonverissimo" /></a>
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valigton&theme=dracula&hide_border=true)](https://github.com/valigton/github-readme-stats)
+  <a href="https://www.facebook.com/vverissimo.santos/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/vverissimo.santos/"/></a>
+<
