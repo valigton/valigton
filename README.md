@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/vaverissimo_/" alt="Instagram">
+  <a href="">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vaverissimo_/"/></a>
   
   <a href="https://www.linkedin.com/in/valigtonverissimo" alt="Linkedin">
