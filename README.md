@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador valigton">
 
 <p align="left">
-  🦄 Skills: <strong>...</strong>
+  🦄 Skills: <strong>Laravel, CodeIgniter, ReactJS, NodeJs and learning Swift</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>...</strong>
+  💼 Tools: <strong>Docker,VSCode</strong>
 </p>
 
 <p align="left">
