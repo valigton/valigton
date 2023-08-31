@@ -9,7 +9,7 @@
   💼 Tools: <strong>Docker,VSCode</strong>
 </p>
 
-🌱 I’m currently working in web development with Laravel and leaning Swift cuz I intend to become mobile developer someday.
+🌱 I’m currently working in web development with Laravel and leaning Swift.
 
 <p align="left">
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
